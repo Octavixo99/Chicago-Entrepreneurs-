@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chicago's Young Entrepreneurs - Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff; /* white */
+            color: #333333; /* dark grey */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #40E0D0; /* turquoise */
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #666666; /* grey */
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #ffffff; /* white */
+            text-decoration: none;
+            display: block; /* Display links as block elements */
+            padding: 10px 0; /* Adjust padding as needed */
+        }
+        nav a:hover {
+            background-color: #333333; /* dark grey */
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #666666; /* grey */
+            color: #ffffff; /* white */
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Chicago's Young Entrepreneurs</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="https://www.essencevip.com">Hairstylist</a>
+        <a href="https://theslaykeshiaexperience.as.me/schedule.php">Makeup Artist</a>
+        <a href="https://canvasrebel.com/meet-bianca-crosby/">Fashion Designer</a>
+        <a href="https://www.youtube.com/channel/UCFj5CXcN-w4dYcEOmTBtuzA">Social Media Influencer</a>
+        <a href="https://www.justiceofthepies.com/about">Chef</a>
+        <a href="https://www.ajtopshop.com/the-barbers">Barber</a>
+        <a href="contact.html">Connect With Us</a>
+    </nav>
+    <main>
+        <!-- Content goes here -->
+        <h2>Welcome to Chicago's Young Entrepreneurs!</h2>
+        <p>This website showcases the talents and businesses of young entrepreneurs in Chicago. Explore the various pages to learn more about each entrepreneur.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3pgvlwFIAKgsL823JqH_uCKrEQa4jBHV1j86xIWSw&s" alt="Welcome Image">
+        <h2>Meet Our Talented Hairstylist</h2>
+        <p>Our hairstylist is dedicated to creating the perfect look for each client. With years of experience and a passion for hair styling, she will transform your hair into a work of art. Her name is Cherry. And she's been doing hair since she was a teenager.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y18xVBM_TY5510_SAFaOfM8O4CKtNIW3i8xjDP_Paw&s" alt="Hairstylist Image">
+        <h2>Discover Our Creative Makeup Artist</h2>
+        <p>Our makeup artist has a keen eye for detail and a passion for enhancing natural beauty. She specializes in a variety of makeup looks, from subtle and elegant to bold and glamorous. Her name is Kalae Nicole.</p>
+        <img src="https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/439696486_7766343126737214_8200069582864450549_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=J61LNglIcAMQ7kNvgHlqXNV&_nc_ht=scontent-ord5-1.xx&cb_e2o_trans=q&oh=00_AfDjsqh5ywEoX6QT155oFkY7Cgkfg565lW81oK2k_Upekg&oe=663FD84C" alt="Makeup Artist Image">
+        <h2>Explore the Creativity of Our Fashion Designer</h2>
+        <p>Our fashion designer brings innovation and style to every piece she creates. With a focus on sustainability and unique designs, she is reshaping the fashion industry one garment at a time. Meet Bianca Crosby. A young fashion designer from Chicago.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-G9nzbo8znG5hDFxKULd6OP4H2wIoCMZF_22HCdM1A&s" alt="Fashion Designer Image">
+        <h2>Connect with Our Social Media Influencer</h2>
+        <p>Our social media influencer is a trendsetter and content creator with a strong online presence. Follow her as brances off more into the social content world and see what type of content she puts out. Her name is Octavia Danielle.</p>
+        <img src="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/377866495_6521715694581189_2103038265136196137_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RdB70bda35QQ7kNvgHDXZ7C&_nc_oc=AdgXa2K843lO_Hh42pTKs_ZcM8m_l-lAs0TX7WcqqU0JsiNQEYyzC79ppMDLeQCO0S0" alt="Social Media Influencer Image">
+        <h2>Experience the Culinary Delights of Our Chef</h2>
+        <p>Our chef combines passion, creativity, and skill to create exquisite dishes that delight the senses. From classic favorites to innovative creations, every meal is a masterpiece. Meet Maya Camille.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5GMjqJFqxea8qlg1w0n7N30gLvXaYliv8Z8dVKsk
+xF376jeCHtaWuo3yPxCP9aXpVQw&usqp=CAU" alt="Chef's Culinary Creations">
+        <h2>Meet Our Expert Barber</h2>
+        <p>Our barber is skilled in traditional and modern barbering techniques, providing precision cuts and grooming services tailored to each client's unique style. Meet AJ, a well-known Chicago Barber.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kFFw-vgggMFv_QsjsPlJuF8-ewSVsxycgPQoMW50nQ&s" alt="Barber at Work">
+        <h2>Connect With Us</h2>
+        <p>Have questions or want to learn more about our services? Or want to be added to the website? Reach out to us using the contact information below:</p>
+        <ul>
+            <li>Email: info@chicagoyoungentrepreneurs.com</li>
+            <li>Phone: 773-123-4567</li>
+            <li>Address: 123 Main Street, Chicago, IL</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Chicago's Young Entrepreneurs. All rights reserved.</p>
+    </footer>
+</body>
+</html>
